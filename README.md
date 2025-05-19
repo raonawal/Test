@@ -6,3 +6,4 @@ Testing Github
 4. 4th Commit(SinglePR).
 5. 5th Commit.
 6. 6th Commit.
+7. 7th Commit (Addressed the comment).
